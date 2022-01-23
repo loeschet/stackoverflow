@@ -13,7 +13,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interestested in using Stack Overflow data from 2021 to better understand:
 
 1. How other developers suggested breaking into the field (what education to pursue)?
 2. What factors about an individual contributed to salary?
@@ -36,5 +36,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  You can find the Link to the data [here](https://insights.stackoverflow.com/survey) (klick on the respective year you want to investigate to download it).  More information about licensing and sharing of adapted databases can be found in this Stack Overflow [blog post](https://stackoverflow.blog/2021/08/30/the-full-data-set-for-the-2021-developer-survey-now-available/). Otherwise, feel free to use the code here as you would like! 
 
